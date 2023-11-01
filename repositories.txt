@@ -1,0 +1,2 @@
+https://github.com/Dependency-Drift-Tracker/dependency-drift-tracker.git
+https://github.com/Dependency-Drift-Tracker/dependency-drift-tracker-action.git
