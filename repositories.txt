@@ -1,2 +1,5 @@
+# One repository per line
 https://github.com/Dependency-Drift-Tracker/dependency-drift-tracker.git
 https://github.com/Dependency-Drift-Tracker/dependency-drift-tracker-action.git
+# Example with a secret variable TEST_REPO replaced at runtime
+https://github.com/Dependency-Drift-Tracker/$TEST_REPO.git
